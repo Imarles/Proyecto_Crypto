@@ -1,4 +1,4 @@
-#Proyecto de analisis de datos (Criptomonedas)
+Proyecto de analisis de datos (Criptomonedas)
 
 INTRODUCCIÓN
 
